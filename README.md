@@ -1,3 +1,11 @@
+# Purpose of this code
+
+This is very simple program which will prompt user to enter time (12HH.MM) or even (24HH.MM) 
+& returns its word representation.
+
+For example: `12.30` this will convert to `Half past 12` 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
